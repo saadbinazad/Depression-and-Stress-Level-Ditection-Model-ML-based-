@@ -1,0 +1,6 @@
+,accuracy,f1_score,precision,recall,training_time
+Gradient Boosting,1.0,1.0,1.0,1.0,0.9864
+Random Forest,0.9975,0.9974,0.9975,0.9975,0.2966
+Logistic Regression,0.9722,0.9717,0.9717,0.9722,0.1913
+SVM,0.9571,0.9554,0.9562,0.9571,0.412
+Dummy,0.6667,0.5333,0.4444,0.6667,0.0563
